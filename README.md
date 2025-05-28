@@ -1,2 +1,2 @@
 # dts
-repo untuk project dts
+repo untuk project
